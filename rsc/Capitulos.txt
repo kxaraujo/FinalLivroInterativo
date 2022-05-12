@@ -1,0 +1,320 @@
+CAPITULO_COM_IMAGEM
+ID
+Vixi, que coisa estranha!
+PERSONAGENS
+Protagonista
+Antagonista
+TEXTO
+Atenção, suas escolhas durante essa aventura estaram [entre colchetes], bom jogo!
+Estamos no ano de 1971, o mundo vivencia a guerra fria entre capitalistas e socialistas. Dentro do laboratório Hawkins, 
+o cientista Martin Brenner está trabalhando em um projeto de meta humanos. 
+Uma recém nascida é regitrada como morta por um 
+nascimento prematuro após um aborto espontâneo, o qual não ocorreu.
+dentro desse laboratório 
+Protagonista
+ é obrigada a submeter sua infância inteira para experimentos científicos, com fins de espionagem.
+Durante essa série de experimentos, você se assusta com um monstro e sem querer provoca a abertura de uma fenda dimensional
+que liga o mundo real com o MUNDO INVERTIDO, um universo paralelo ao nosso, porém escuro, sombrio e sem vida, 
+onde quem domina é um monstro sem face aparente com uma única boca que envolve todo seu rosto. O 
+Antagonista
+.
+ Agora ele consegue sair do mundo invertido através da fenda e abrir portais para se teleportar até onde ele sentia a presença de sangue, 
+assim capturando silenciosamente vítimas na pequena cidade de Hawkins, em Indiana.
+Voce é corajosa o suficiente para enfrentar essas -coisas estranhas- que estam acontecendo em Hawkins?
+VARIACOES
+0
+0
+IMAGEM
+8b           d8 88 8b        d8 88      ,ad8888ba,   88        88 88888888888      ,ad8888ba,   ,ad8888ba,   88  ad88888ba        db         
+`8b         d8' 88  Y8,    ,8P  88     d8"'    `"8b  88        88 88              d8"'    `"8b d8"'    `"8b  88 d8"     "8b      d88b        
+ `8b       d8'  88   `8b  d8'   88    d8'        `8b 88        88 88             d8'          d8'        `8b 88 Y8,             d8'`8b       
+  `8b     d8'   88     Y88P     88    88          88 88        88 88aaaaa        88           88          88 88 `Y8aaaaa,      d8'  `8b      
+   `8b   d8'    88     d88b     88    88          88 88        88 88"""""        88           88          88 88   `"""""8b,   d8YaaaaY8b     
+    `8b d8'     88   ,8P  Y8,   88    Y8,    "88,,8P 88        88 88             Y8,          Y8,        ,8P 88         `8b  d8""""""""8b    
+     `888'      88  d8'    `8b  88     Y8a.    Y88P  Y8a.    .a8P 88              Y8a.    .a8P Y8a.    .a8P  88 Y8a     a8P d8'        `8b   
+      `8'       88 8P        Y8 88      `"Y8888Y"Y8a  `"Y8888Y"'  88888888888      `"Y8888Y"'   `"Y8888Y"'   88  "Y88888P" d8'          `8b  
+============================================================================================================================================                                                                                                            
+                88888888888 ad88888ba 888888888888 88888888ba         db        888b      88 88        88        db         
+                88         d8"     "8b     88      88      "8b       d88b       8888b     88 88        88       d88b        
+                88         Y8,             88      88      ,8P      d8'`8b      88 `8b    88 88        88      d8'`8b       
+                88aaaaa    `Y8aaaaa,       88      88aaaaaa8P'     d8'  `8b     88  `8b   88 88aaaaaaaa88     d8'  `8b      
+                88"""""      `"""""8b,     88      88""""88'      d8YaaaaY8b    88   `8b  88 88""""""""88    d8YaaaaY8b     
+                88                 `8b     88      88    `8b     d8""""""""8b   88    `8b 88 88        88   d8""""""""8b    
+                88         Y8a     a8P     88      88     `8b   d8'        `8b  88     `8888 88        88  d8'        `8b   
+                88888888888 "Y88888P"      88      88      `8b d8'          `8b 88      `888 88        88 d8'          `8b                                                                                                              
+IMAGEM_FIM
+
+CAPITULO
+ID
+Sem coragem
+PERSONAGENS
+Protagonista
+Antagonista
+TEXTO
+vixi, pelo visto você não é corajosa o suficiente para está aventura estranhamente estranha....
+VARIACOES
+0
+0
+
+CAPITULO
+ID
+Finalmente livre?
+PERSONAGENS
+Protagonista
+Antagonista
+TEXTO
+Protagonista
+ conseguiu fugir do laboratório, todos estão a sua procura, inclusive  
+Antagonista
+. Voce ainda é um experimento sigiloso, e sua descoberta pode trazer graves consequências para o governo
+norte-americano. O laboratório é subtarrâneo, mas voce finalmente encontra a luz e consegue chegar
+até a superficie. Andando pela mata voce enxerga uma casa e tem duas escolhas:
+VARIACOES
+0
+0
+
+CAPITULO
+ID
+Cheiro de waffes
+PERSONAGENS
+Protagonista
+Antagonista
+TEXTO
+Ao se aproximar da casa, 
+Protagonista
+ observa bem, sente cheiro de waffes quentinhos, pega-os
+e rapidamento devora todos. 
+VARIACOES
+100
+0
+
+CAPITULO
+ID
+Que zuada é essa?
+PERSONAGENS
+Protagonista
+Antagonista
+TEXTO
+Voce ouve um barulho estranho lá fora, aparamente seu inimigo sentiu o cheiro do seu sangue
+e está se aproximando. O que 
+Protagonista
+ vai fazer?
+VARIACOES
+-10
+0
+
+CAPITULO
+ID
+Andando pela mata
+PERSONAGENS
+Protagonista
+Antagonista
+TEXTO
+Protagonista
+ continua andando, até que um barulho surge, seu corpo automaticamente começa reagir....o som vai se aproximando 
+Antagonista
+ está por perto, e agora você...?
+VARIACOES
+-20
+0
+
+CAPITULO_COM_IMAGEM
+ID
+Batalha sangrenta
+PERSONAGENS
+Protagonista
+Antagonista
+TEXTO
+antes que o mesmo que pudesse levantar, voce atinge 
+Antagonista
+ novante, dessa vez jogando-o de um lado para o outro, dando golpes repetitivos.
+totalmente debilitado ele ainda tenta te atacar......seu nariz sangra muito e voce está ficando debilitada, mas voce nao desiste, joga-o contra uma árvore 
+Antagonista
+ FOI DERROTADO e sua energia foi reestabelecida
+VARIACOES
+100
+0
+IMAGEM
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@                    @@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@*                           ,@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@.             .                 ,  @@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@&.,    ,             *.                .@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@.(/,* ,.(  .( #*  ,    ,  , *     /     ,/@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@**,/&(((#,. ,*.,, % *   .  .,  ,( ( *,*   ,,@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@    /# *(.@#   &(*/ %* .  * (  *   (*/* #  . @@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@&* #  //..(#@&   /#(/,(&*#*. ,,.  #/* *      #@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@ *  **(.&%( /,/ , (, , *(#(//.* * .       / / @@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@, /.*%*.,%/.        /.  ,.(  %   ,        .#.@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@,**,,* * ,#.(     . ,   ./                (@&@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@* %# /. ,*,/%.,*..   ,   ,,,       .        .,  @@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@( ..*&(  , (#(/** ,..         .            ,& ,/@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@#/ (#/&#  *,(//( /%*,, .     .              & @@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@ /# @   *,*%#&*/   /.     ,     /%%&(  (.&#@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@ .*/*.#((*(@,#%#/,//(/**,, (/  *.%. (,  /@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@ ,&   #,%#@**/  #*%(#*.   *&((#/%/    * %@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@% %&  .*/.    * ., *#       .//*%     @@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@    *(.      ,,(  ,.        ,,    @@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@ .  @/..     #..,     .         @@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@#  .(%,.*,. &% . / / %  ,      &@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@&( ,#*.  .(/      .%, ,           ,#@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@( **&%@#%/ . ,/( *((@.. . *#%(, .  ##(   (@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@#   (/%   * *%   ..,  .,  ., .     ,@.  ,.         @@@@@@@@@@@
+@@@@@@@@@@@@@@@.      ( (   *  (*//  #(.*/         / *&    . ,        *  @@@@@@@
+@@@@@@@@@* /.*      , &,*.,     #%( ( , . .     #.# *  ,*    %(           , *@@@
+@@@,,,/  (         . /,      *( *,   @& (%,    %              @ /*/,          # 
+ *(   %.              &/*/* *             # *(@@&&         .  @/ ,#./*          
+    / /               , (           (  #*# #  ((  *,  ( / (, .. (% #/           
+ (/            #.  . *.*%@/       ,.*%.      (  .,   .      .  #*    *  *       
+.*       * *   */  *  ,.#./ @,,( .  ,  .#,(  /       /   ( %    &     ,, / ( *,#
+I8,        8        ,8I 88 888b      88 888b      88 88888888888 88888888ba   
+`8b       d8b       d8' 88 8888b     88 8888b     88 88          88      "8b  
+ "8,     ,8"8,     ,8"  88 88 `8b    88 88 `8b    88 88          88      ,8P  
+  Y8     8P Y8     8P   88 88  `8b   88 88  `8b   88 88aaaaa     88aaaaaa8P'  
+  `8b   d8' `8b   d8'   88 88   `8b  88 88   `8b  88 88"""""     88""""88'    
+   `8a a8'   `8a a8'    88 88    `8b 88 88    `8b 88 88          88    `8b    
+    `8a8'     `8a8'     88 88     `8888 88     `8888 88          88     `8b   
+     `8'       `8'      88 88      `888 88      `888 88888888888 88      `8b  ⠀⠀⠀⠀
+IMAGEM_FIM
+
+CAPITULO_COM_IMAGEM
+ID
+Covardia
+PERSONAGENS
+Protagonista
+Antagonista
+TEXTO
+Protagonista
+ tenta fugir, mas 
+Antagonista
+ te ataca covardemente pelas costas........
+VARIACOES
+0
+100
+IMAGEM
+                                                              /@                                                
+                                                     %.            .                                
+                                              @(( //#@%            ,@                               
+                                             &*        ,   *#        .                              
+                                              @@((/@#@##  @@/ @@  @ @                               
+                                      /(.      ,%( ..&    @/       /@                               
+                                    &&. %@*    %@(/@@@*@  @& @@  @/                                 
+         &                     *#   &@.   *#/***&(/@# *@% (*  #   *                                 
+        ,%                       *@  &@ @ * @.@@((/@@@@@%,@@@@,@                                    
+           (                         ##      *  &(/@# /@%,@# %                                      
+           /.                               #@ (@ /@#@*@% @&@ .                                     
+          @#                                @/ (@(/ @@   ,    @@                                    
+         %     ((@@ #                      #@/@@@ //@#@% ,@@@@@@ @@@                                
+           @@    @                    & @ *# / (@ /@   @%    . @  @ @                               
+         .@@  (@@/@                   && & .#/&@( /@@&&%. .@@ @@ .@&@                               
+          @*  .,,,@                  ,@@#  . , ,.(.,,,,@. ,,,@@@   @@*                              
+               #&* .                 ,##@  #%& (#* ,#@(,(,/&  @@ *##@@                              
+               ,@@@@            @    &@@@@.,//@(    *//   ..@@ *  @@/@                              
+                %%%            @@   /@#. @.* (@@   #&@#    .((@(  /@@.                              
+                %@@@    @@     @@@( /(#((@  #@@@(* .(((@% .@@@@( (((@@@,                            
+                 *(%  ,,@%&*  /@*@/     @.,  /*(#.  **#    #*@@    /                                
+                 #@@/ *@ %%#   *          * %@@/*** *@#%   @@#%     %%%  %                          
+                  (  *@,                 ,  (( (  **(@ ( ...,,@     &&@ % #&                        
+                                          *(*&&/ (  /@#@ ,&.&&@       .  %&@/    *  * *,**.* *.,    
+IMAGEM_FIM
+
+ESCOLHA
+DE
+Vixi, que coisa estranha!
+PARA
+Finalmente livre?
+TEXTO DIGITADO
+eu sou corajosa
+TEXTOMOSTRADO
+[eu sou corajosa]
+
+ESCOLHA
+DE
+Andando pela mata
+PARA
+Batalha sangrenta
+TEXTO DIGITADO
+lutar
+TEXTOMOSTRADO
+[lutar] com seu arqui-inimigo
+
+ESCOLHA
+DE
+Andando pela mata
+PARA
+Covardia
+TEXTO DIGITADO
+se esconde
+TEXTOMOSTRADO
+[se esconde] nos arbustos
+
+ESCOLHA
+DE
+Finalmente livre?
+PARA
+Cheiro de waffes
+TEXTO DIGITADO
+entrar na casa
+TEXTOMOSTRADO
+voce quer [entrar na casa]
+
+ESCOLHA
+DE
+Finalmente livre?
+PARA
+Andando pela mata
+TEXTO DIGITADO
+continuar andando pela mata
+TEXTOMOSTRADO
+voce quer [continuar andando pela mata]
+
+ESCOLHA
+DE
+Cheiro de waffes
+PARA
+Que zuada é essa?
+TEXTO DIGITADO
+ir la fora conferir
+TEXTOMOSTRADO
+[ir la fora conferir]
+
+ESCOLHA
+DE
+Cheiro de waffes
+PARA
+Covardia
+TEXTO DIGITADO
+se esconder
+TEXTOMOSTRADO
+[se esconder]
+
+ESCOLHA
+DE
+Que zuada é essa?
+PARA
+Batalha sangrenta
+TEXTO DIGITADO
+ir ao encontro
+TEXTOMOSTRADO
+[ir ao encontro] do meu arqui-inimigo
+
+ESCOLHA
+DE
+Que zuada é essa?
+PARA
+Covardia
+TEXTO DIGITADO
+subir
+TEXTOMOSTRADO
+[subir] na árvore e tentar se camuflar
+
+ESCOLHA
+DE
+Vixi, que coisa estranha!
+PARA
+Sem coragem
+TEXTO DIGITADO
+eu nao sou corajosa
+TEXTOMOSTRADO
+[eu nao sou corajosa]
+
