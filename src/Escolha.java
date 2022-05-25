@@ -1,39 +1,35 @@
-public class Escolha 
-{
+public class Escolha {
     private String textoDigitado;
     private String textoMostrado;
     private Capitulo proximo;
 
-//==================================================================================================================
-//Construtor Escolha
-//==================================================================================================================
+    // ==================================================================================================================
+    // Construtor Escolha
+    // ==================================================================================================================
 
-    public Escolha(String textoDigitado, 
+    public Escolha(String textoDigitado,
             String textoMostrado,
-            Capitulo proximo)
-    {
+            Capitulo proximo) {
         this.textoDigitado = textoDigitado;
         this.textoMostrado = textoMostrado;
         this.proximo = proximo;
     }
 
-//==================================================================================================================
-// Criando métodos para usar os atributos, configurados como 'private', em outros lugares
-//==================================================================================================================
+    // ==================================================================================================================
+    // Criando métodos para usar os atributos, configurados como 'private', em
+    // outros lugares
+    // ==================================================================================================================
 
-    public String getTextoDigitado()
-    {
+    public String getTextoDigitado() {
         return this.textoDigitado;
     }
 
-    public String getTextoMostrado()
-    {
+    public String getTextoMostrado() {
         return this.textoMostrado;
     }
 
-    public Capitulo getProximo()
-    {
-       return this.proximo;
+    public Capitulo getProximo() {
+        return this.proximo;
     }
 
 }

@@ -1,0 +1,30 @@
+{
+  // Use IntelliSense to learn about possible attributes.
+  // Hover to view descriptions of existing attributes.
+  // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Launch FxmlApp",
+      "request": "launch",
+      "mainClass": "FxmlApp",
+      "projectName": "projetoPROG2_526016dd"
+    },
+    {
+      "type": "java",
+      "name": "Launch FxmlApp",
+      "request": "launch",
+      "mainClass": "FxmlApp",
+      "projectName": "projetoPROG2_d1f84fdb",
+      "vmArgs": "--module-path \"C:/Users/srazr/Documents/JavaLibs/javafx-sdk-18.0.1/lib\" --add-modules javafx.controls,javafx.fxml"
+    },
+    {
+      "type": "pwa-msedge",
+      "request": "launch",
+      "name": "Launch Edge against localhost",
+      "url": "http://localhost:8080",
+      "webRoot": "${workspaceFolder}"
+    }
+  ]
+}
