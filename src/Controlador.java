@@ -89,38 +89,12 @@ public class Controlador {
     }
 
 
-
-
-
-
-
-
-
-
     private void mostrarCapitulo(Capitulo capitulo) {
 
         mostrarTextoCapitulo(capitulo.getTexto());
         mostrarEscolhas(capitulo.getEscolhas());
     }
 
-
-
-
-
-
-
-
-
-
-    /**
-     * A seguir, vai começar a criar os botões das perguntas.
-     * 
-     * Lembra que te falei que usava o "Buttonbar" pra os botões das escolhas? Então, nós vamos usar ele agora.
-     * 
-     * Lembrando que "Button" é só um botão. Já o "ButtonBar", é um ORGANIZADOR de botões.
-     * 
-     * Primeiro vamos criar o método pra fazer as maracutaias
-     */
 
     public void mostrarEscolhas(ArrayList<Escolha> escolhas) {
         // Aqui ele acessa o dicionário das escolhas
