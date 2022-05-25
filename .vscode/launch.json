@@ -9,6 +9,13 @@
       "name": "Launch FxmlApp",
       "request": "launch",
       "mainClass": "FxmlApp",
+      "projectName": "FinalRPG_eb6bfebb"
+    },
+    {
+      "type": "java",
+      "name": "Launch FxmlApp",
+      "request": "launch",
+      "mainClass": "FxmlApp",
       "projectName": "projetoPROG2_526016dd"
     },
     {
