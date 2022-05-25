@@ -11,52 +11,7 @@ import javafx.scene.control.Label;
 
 public class Controlador {
 
-    /**
-     * KAROLZINHAAAAAAAAAAAAA!!! eu deixei o código comentado pra tentar deixar menos
-     * difícil de entender,
-     * só me desculpa porque ficou meio bagunçado.
-     * 
-     * Se tu for usar esse código, apaga esses comentários pra não dar problema na gravação,
-     * e aperta "alt + shift + f" pra identar o código se ele ficar meio torto e pra apagar as puladas de linha exageradas,
-     * vou deixar esses espaços pra dividir o código e ficar melhor de entender. 
-     * Então bora lá!!
-     * 
-     * ! OBS!: Se der o erro: JavaFX runtime components are missing, and are required to run this application
-     * que muito provavelmente vai dar, segue o passo a passo:
-     * 
-     * ! 0.5 - Se tiver com preguiça de ler, pula pra linha 48
-     * 1 - Entra na pasta .vscode (pelo vscode mesmo);
-     * 2 - Entra no arquivo "launch.json"
-     * 3 - Procura isso aqui:
-     *
-     *  {
-      "type": "java",
-      "name": "Launch FxmlApp",
-      "request": "launch",
-      "mainClass": "FxmlApp",
-      "projectName": "projetoPROG2_d1f84fdb"
-       }
-     * 
-     * 4 - Adiciona "vmArgs": "--module-path \"C:/...\" --add-modules javafx.controls,javafx.fxml"
-     * antes de fechar a chave.
-     * 
-     * Esse "C:/...\", tu vai colocar o caminho da biblioteca JavaFX
-     * 
-     * Sei que isso ficou meio embassado, têm um vídeo no youtube fazendo isso:
-     * 
-     * https://www.youtube.com/watch?v=_IAEN275WlM
-     * 
-     * Qualquer coisa me chamaaaaaa
-     */
 
-
-
-
-
-     /**
-      * Essa primeira parte eu comentei só pra identificar certinho o que cada
-      * elemento é na interface
-      */
     private Capitulo raiz;
 
     @FXML
@@ -74,18 +29,6 @@ public class Controlador {
     @FXML
     private Label textoCap;
     // Caixinha que recebe os textos dos capítulos
-
-
-
-
-
-
-
-
-
-
-
-
 
     /**
      * Essa parte eu tô criando os métodos pra aparecer e desaparecer elementos na interface.
@@ -106,27 +49,6 @@ public class Controlador {
         // fazer funcionar '-'
         asciiCap.setText(imagem);
     }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    /**
-     * Nessa parte eu tô usando os métodos criados lá em cima
-     */
 
     @FXML
     void iniciarHistoria(ActionEvent event) {
